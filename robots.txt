@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yuuri-lax.github.io/tokuyama-spot-kogyosho/sitemap.xml
